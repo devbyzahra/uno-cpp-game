@@ -8,7 +8,7 @@ This project was built as a group assignment for the second semester of Computer
 Team Members:
 - Zahra Izadi  
 - Matin Naderi  
-- Amirhossein Ahmadi
+- Amirhossein Ghasemi
 
 Language: C++  
 License: MIT
